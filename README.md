@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfar-ds&label=Profile%20views&color=0e75b6&style=flat" alt="asfar-ds" /> </p>
 
-- 🔭 I’m currently working on AI legal Assistant APP for Lawyers **AI legal Assistant**
+- 🔭 I’m currently working on Full Stack AI APP for Lawyers **AI legal Assistant**
 
-- 🌱 I’m currently learning about AI agents with Crew AI and n8n for automation **CrewAI, n8n, Langchain**
+- 🌱 I’m currently learning about AI agents and automation **Crew AI, n8n and Langchain-agents**
 
-- 👯 I’m looking to collaborate on Data Science and AI related Tasks. I am just a text away **AI APPs**
+- 👯 I’m looking to collaborate on **Data Science, Machine learning and AI** related Tasks. I am just a text away.
 
-- 👨‍💻 This is link to my Kaggle Profile [https://www.kaggle.com/asferzafar](https://www.kaggle.com/asferzafar)
+- 👨‍💻 This is link to my Kaggle profile. I ranked in top 500 out of 60,000[Kaggle Profile](https://www.kaggle.com/asferzafar)
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, NLP, GenAI, RAG and AI agents**
+- 💬 If you have any query about **Data Science, Machine Learning, Deep Learning, NLP, GenAI, RAG and AI agents.** Feel free to reach me out
 
-- 📫 If you need any help related to Data Science, Machine learning and AI. Feel free to reach me out **ethicalstar6037@gmail.com**
+- 📫 You can reach me out at this Gmail. Feel free to drop Mail **ethicalstar6037@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
