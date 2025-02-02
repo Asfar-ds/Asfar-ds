@@ -1,3 +1,4 @@
+![Logo](https://github.com/Asfar-ds/Asfar-ds/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Asfar</h1>
 <h3 align="center">A 17-year-old Data Scientist from Pakistan, currently working as an AI/ML Engineer at @DiffusionPlanet(UK based startup)</h3>
 
