@@ -1,4 +1,8 @@
 ![Logo](https://github.com/Asfar-ds/Asfar-ds/blob/main/banner.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data Scientist;AI Engineer;IT - Professional;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Asfar</h1>
 <h3 align="center">A 17-year-old Data Scientist from Pakistan, currently working as an AI/ML Engineer at @DiffusionPlanet(UK based startup)</h3>
 
